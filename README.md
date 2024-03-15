@@ -10,7 +10,7 @@ For educational purposes only
 
 #### Anime
 
-- [animeflix.live](https://animeflix.live/) - 
+- [animeflix.live](https://animeflix.live/) - ⭐
 - [4anime.gg](https://4anime.gg/) - 
 - [123anime.info](https://123anime.info/) - 
 - [animania.co.uk](https://animania.co.uk/) - 
@@ -66,11 +66,16 @@ For educational purposes only
 
 #### Movies & TV Shows
 
-- [mega.nz](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w) -
-- [yts.unblockit](https://yts.unblockit.ing/) -
+- [mega.nz](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w) - 4K Movies Archive
+- [yts.unblockit](https://yts.unblockit.ing/) - YTS
 - [upmovies.to](https://upmovies.to/) - Online
 - [movie-web.app](https://movie-web.app/) - Online
 - [fmoviesz.to](https://fmoviesz.to/) - Online
+- -[nites](https://w1.nites.is/home) - Online ⭐
+- -[ridomovies](https://ridomovies.tv/home) - Online ⭐
+- -[fossa](https://fossa.tv/) - Online
+- -[nepu](https://nepu.to/) - Online
+- -[tamilmv](https://www.1tamilmv.tax/) - Indian Movies
 
 #### Music
 - [free-mp3-download.net](https://free-mp3-download.net/) - Flacs & Mp3
