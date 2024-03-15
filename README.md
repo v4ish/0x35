@@ -71,14 +71,14 @@ For educational purposes only
 - [upmovies.to](https://upmovies.to/) - Online
 - [movie-web.app](https://movie-web.app/) - Online
 - [fmoviesz.to](https://fmoviesz.to/) - Online
-- -[nites](https://w1.nites.is/home) - Online ⭐
-- -[ridomovies](https://ridomovies.tv/home) - Online ⭐
-- -[fossa](https://fossa.tv/) - Online
-- -[nepu](https://nepu.to/) - Online
-- -[tamilmv](https://www.1tamilmv.tax/) - Indian Movies
+- [nites](https://w1.nites.is/home) - Online ⭐
+- [ridomovies](https://ridomovies.tv/home) - Online ⭐
+- [fossa](https://fossa.tv/) - Online
+- [nepu](https://nepu.to/) - Online
+- [tamilmv](https://www.1tamilmv.tax/) - Indian Movies
 
 #### Music
-- [free-mp3-download.net](https://free-mp3-download.net/) - Flacs & Mp3
+- [free-mp3-download.net](https://free-mp3-download.net/) - Flacs & Mp3 (Rip)
 - [Spotube](https://spotube.krtirtho.dev/) -
 
 #### Software 
