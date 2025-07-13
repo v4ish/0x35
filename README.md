@@ -61,10 +61,10 @@ For educational purposes only
 #### Music
 - [free-mp3-download.net](https://free-mp3-download.net/) - Flacs & Mp3 (Rip)
 - [Spotube](https://spotube.krtirtho.dev/) -
-- [DAB Music Player](https://dab.yeet.su/) - Flacs
+- ⭐[DAB Music Player](https://dab.yeet.su/) - Flacs
 
 #### Software 
-- [Rarbgdump](https://rarbgdump.com/) - 5.7PB data and get WORKING MAGNET LINKS
+- ⭐[Rarbgdump](https://rarbgdump.com/) - 5.7PB data and get WORKING MAGNET LINKS
 - [ravesoftwaresearch](https://ravesoftwaresearch.pages.dev/#gsc.tab=0) -
 - [filecr](https://filecr.com/en/) - Not recommended
 
