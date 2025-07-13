@@ -1,24 +1,9 @@
 # 0x35
 For educational purposes only
 
-**Table of Contents**
-
 [uBlock Origin](https://github.com/gorhill/uBlock)
 [Qbittorrent](https://www.fosshub.com/qBittorrent.html)
-
-### Sites
-
-#### Anime
-
-- [animeflix.live](https://animeflix.live/) - ⭐
-- [4anime.gg](https://4anime.gg/) - 
-- [123anime.info](https://123anime.info/) - 
-- [animania.co.uk](https://animania.co.uk/) - 
-- [animefox.mobi](https://animefox.mobi/home) - 
-- [animefrenzy](https://animefrenzy.cc/) - 
-- [animension](https://animension.to/) - 
-- [animeowl](https://animeowl.us/) - 
-- [animesuge](https://animesuge.to/home) - 
+[FMHY Extension](https://github.com/fmhy/FMHY-SafeGuard)
 
 #### Books
 
@@ -66,24 +51,22 @@ For educational purposes only
 
 #### Movies & TV Shows
 
-- [mega.nz](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w) - 4K Movies Archive
-- [yts.unblockit](https://yts.unblockit.ing/) - YTS
-- [upmovies.to](https://upmovies.to/) - Online
-- [movie-web.app](https://movie-web.app/) - Online
-- [fmoviesz.to](https://fmoviesz.to/) - Online
-- [nites](https://w1.nites.is/home) - Online ⭐
-- [ridomovies](https://ridomovies.tv/home) - Online ⭐
-- [fossa](https://fossa.tv/) - Online
-- [nepu](https://nepu.to/) - Online
-- [tamilmv](https://www.1tamilmv.tax/) - Indian Movies
+- ⭐[fmovies+](https://www.fmovies.cat/)
+- ⭐[mega.nz](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w) - 4K Movies Archive
+- [xprime](https://xprime.tv/) - Movies / TV / Anime / Auto-Next / Watch Parties
+- [nepu](https://nepu.to/) - Home / Movies / Shows / Anime / Ebooks
+- [veloratv](https://veloratv.ru/) - Movies / TV / Anime / Auto-Next / Watch Parties 
+- [tamilmv](https://www.1tamilmv.com/) - Indian Movies
 
 #### Music
 - [free-mp3-download.net](https://free-mp3-download.net/) - Flacs & Mp3 (Rip)
 - [Spotube](https://spotube.krtirtho.dev/) -
+- [DAB Music Player](https://dab.yeet.su/) - Flacs
 
 #### Software 
+- [Rarbgdump](https://rarbgdump.com/) - 5.7PB data and get WORKING MAGNET LINKS
 - [ravesoftwaresearch](https://ravesoftwaresearch.pages.dev/#gsc.tab=0) -
-- [filecr](https://filecr.com/en/) -
+- [filecr](https://filecr.com/en/) - Not recommended
 
 #### Source 
 [r/Piracy](https://www.reddit.com/r/Piracy)
