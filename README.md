@@ -53,6 +53,7 @@ For educational purposes only
 
 - ⭐[fmovies+](https://www.fmovies.cat/)
 - ⭐[mega.nz](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w) - 4K Movies Archive
+- ⭐[cineby](https://www.cineby.app)
 - [xprime](https://xprime.tv/) - Movies / TV / Anime / Auto-Next / Watch Parties
 - [nepu](https://nepu.to/) - Home / Movies / Shows / Anime / Ebooks
 - [veloratv](https://veloratv.ru/) - Movies / TV / Anime / Auto-Next / Watch Parties 
