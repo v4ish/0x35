@@ -58,6 +58,7 @@ For educational purposes only
 - [nepu](https://nepu.to/) - Home / Movies / Shows / Anime / Ebooks
 - [veloratv](https://veloratv.ru/) - Movies / TV / Anime / Auto-Next / Watch Parties 
 - [tamilmv](https://www.1tamilmv.com/) - Indian Movies
+- ⭐[tamilblasters](https://www.1tamilblasters.wine/)
 
 #### Music
 - [free-mp3-download.net](https://free-mp3-download.net/) - Flacs & Mp3 (Rip)
