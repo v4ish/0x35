@@ -4,6 +4,7 @@ For educational purposes only
 [uBlock Origin](https://github.com/gorhill/uBlock)
 [Qbittorrent](https://www.fosshub.com/qBittorrent.html)
 [FMHY Extension](https://github.com/fmhy/FMHY-SafeGuard)
+[Discord](https://r.dsc.gg/v4ish)
 
 #### Books
 
